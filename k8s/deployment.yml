@@ -18,4 +18,4 @@ spec:
       - name: train-schedule
         image: harithayalamati/train-schedule:${BUILD_NUMBER}
         ports:
-        - containerPort: 8093
+        - containerPort: 8095
